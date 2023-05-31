@@ -1,0 +1,6 @@
+@import url(./cores.css);
+
+
+.btn{
+    background-color: var(--azulclaro);
+}
